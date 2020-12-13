@@ -1,39 +1,39 @@
-# ggsant
+<p align="center">
+<img align="center" alt="GIF" src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" />
+</p>
 
-# Social Medias
+**Social Medias** <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Anurag%20Singh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://https://www.linkedin.com/in/gabriela-pereira-dos-santos-472365139/)](https://www.linkedin.com/in/gabriela-pereira-dos-santos-472365139/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriela%20Santos-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/gabriela-pereira-dos-santos-472365139/)](https://www.linkedin.com/in/gabriela-pereira-dos-santos-472365139/)[![GitHub followers](https://img.shields.io/github/followers/ggsant?label=Follow&style=social)](https://github.com/ggsant/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-gabriela.pereira.santos-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:gabriela.pereira.santos@usp.br)](mailto:gabriela.pereira.santos@usp.br) 
 
-[![GitHub followers](https://img.shields.io/github/followers/ggsant?label=Follow&style=social)](https://github.com/ggsant/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-gabriela.pereira.santos-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:gabriela.pereira.santos@usp.br)](mailto:gabriela.pereira.santos@usp.br) 
 
-<a href="https://www.linkedin.com/in/gabriela-pereira-dos-santos-472365139/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
+I'm a **Graduate Student 👨🏽‍💼 [USP](https://www5.usp.br/)** in Brazil. I also work as a **Flutter Developer**. Passionate about technology, I learned to program when I entered college because of the extra projects I got involved in. In one of these projects I developed a prototype of home automation aimed at the visually impaired using Python and Iot. This project was responsible for changing my career to the development area. Since then I started to learn new technologies! I did some personal projects with web languages ​​like HTML5, CSS, JS. I won a hackathon, in which I developed, together with my team, an application prototype in order to mitigate the effects of unemployment in the pandemic. This project was my gateway to mobile development. I started to learn how to develop applications with Flutter and Dart for Android and IOS and found myself in that area. 
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=ggsant&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
+
+
+**Talking about Personal Stuffs:** <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+
+- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> 📖 I’m currently learning about GraphQl, Flutter, AWS;
+- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> 🤹🏽 Fields I enjoy the most include movile development, iot, python.
+- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> 👨🏽‍💻 I’m currently working on something cool.
+- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> 💬 Ask me about anything, I am happy to help;
+- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> ⚡️ I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+
+**Languages and Tools:** <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postman/postman.png"></code>
 
 
 ![Gabriela's Github Stats](https://github-readme-stats.vercel.app/api?username=ggsant&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggsant&layout=compact)](https://github.com/ggsant/github-readme-stats)
-
-**Talking about Personal Stuffs:**
-- 👨🏽‍💻 I’m currently working on something cool.
-- 💬 Ask me about anything, I am happy to help;
-
-
-**Languages and Tools:** 
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
-
 
 
 <!--START_SECTION:waka-->
@@ -46,7 +46,7 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on weekends** 
 
 ```text
 Monday       56 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.54% 
@@ -59,32 +59,7 @@ Sunday       92 commits     ███████░░░░░░░░░░�
 
 ```
 
-
-
 <!--END_SECTION:waka-->
-
-I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in France. I also work as a **Web Developer / Embedded Software Engineer [@Hiventive](https://www.hiventive.com)**. I strongly advocate my fellow classmates to get into Open Source 📢 [@MasterERTS](https://github.com/MasterERTS). Besides software engineering, I'm a Small Forward in my Basketball Varsity team.
-
-<p align="center">
-<img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
-</p>
-
-- 📖 I’m currently learning new things on [Coursera](https://www.coursera.org);
-- 🤹🏽 Fields I enjoy the most include [🤖 Robotics, 🎛 Embedded Systems, 🖼 Computer Vision, 📊 Data Science]
-- 📈 I’m fluent in [C/C++, Python, Go, Julia, Matlab];
-- 💬 I am fast to respond and looking for people willing to grow their profiles by contributing regularly;
-- ⚡️ I am currently writing an article along with [Sampreet Sarkar](https://github.com/sampreets3) to submit at **ICCAR 2021** for our work on Real-Time constrained ROS using Xenomai.
-- 📫 How to reach me: <erwinlejeune.pro@gmail.com>;
-
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
-
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
-
 
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
