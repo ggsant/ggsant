@@ -67,3 +67,6 @@ Sunday       92 commits     ███████░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+<p align="center">
+<img align="center" alt="GIF" src="https://media.giphy.com/media/1KrM2hhDN3dgk/giphy.gif" />
+</p>
