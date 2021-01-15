@@ -1,8 +1,12 @@
-<p align="center">
+<!-- <p align="center">
 <img align="center" alt="GIF" src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" />
+</p> -->
+
+<p align="center">
+<img align="center" alt="GIF" src="https://media.giphy.com/media/1KrM2hhDN3dgk/giphy.gif" />
 </p>
 
-**Social Medias** <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+**Social Medias** 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriela%20Santos-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/gabriela-pereira-dos-santos-472365139/)](https://www.linkedin.com/in/gabriela-pereira-dos-santos-472365139/)   [![GitHub followers](https://img.shields.io/github/followers/ggsant?label=Follow&style=social)](https://github.com/ggsant/?tab=follow)   [![Gmail Badge](https://img.shields.io/badge/-gabriela.pereira.santos-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:gabriela.pereira.santos@usp.br)](mailto:gabriela.pereira.santos@usp.br) 
 
@@ -14,36 +18,31 @@ I'm a **Graduate Student 👨🏽‍💼 [USP](https://www5.usp.br/)** in Brazil
 </p>
 
 
-**Talking about Personal Stuffs:** <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+**Talking about Personal Stuffs:** 
 
-- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> I’m currently learning about GraphQl, Flutter, AWS;
-- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> Fields I enjoy the most include movile development, iot, python.
-- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> I’m currently working on something cool.
-- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> Ask me about anything, I am happy to help;
-- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+- I’m currently learning about GraphQl, Flutter, AWS;
+- Fields I enjoy the most include movile development, iot, python.
+- I’m currently working on something cool.
+- Ask me about anything, I am happy to help;
+- I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 
-**Languages and Tools:** <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+**Languages and Tools:** 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> GraphQl    
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> Python
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> Firebase
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> Git
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code> Flutter
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code> Dart
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code> Docker
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code> Docker -->
 
 
 ![Gabriela's Github Stats](https://github-readme-stats.vercel.app/api?username=ggsant&show_icons=true&theme=dracula)
 
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I'm a night person🦉** 
 
 ```text
 🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
@@ -67,6 +66,3 @@ Sunday       92 commits     ███████░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<p align="center">
-<img align="center" alt="GIF" src="https://media.giphy.com/media/1KrM2hhDN3dgk/giphy.gif" />
-</p>
