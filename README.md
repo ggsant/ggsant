@@ -2,10 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ggsant.ggsant&left_color=purple&right_color=aqua&left_text=visitors so far"  />
-</div>
-
 ###
 
 <div align="center">
