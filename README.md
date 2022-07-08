@@ -1,10 +1,4 @@
-
-
-<p align="center">
-<img align="center" alt="GIF" src="https://media.giphy.com/media/1KrM2hhDN3dgk/giphy.gif" />
-</p>
-
-<h2 align="left">Hi 👋! My name is Gabriela Santos and I'm a frontend developer from Brazil. 🇧🇷</h2>
+<h2 align="left">Hi ! My name is Gabriela Santos and I'm a frontend developer from Brazil. 🇧🇷</h2>
 
 ###
 
@@ -39,10 +33,6 @@
 ###
 
 <p align="left">Talking about Personal Stuffs:<br><br>- I’m currently learning about GraphQl, Flutter, AWS, Kafka;<br>- Fields I enjoy the most include mobile development, iot, python.<br>- I’m currently working on something cool.<br>- Ask me about anything, I am happy to help;<br>- I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</p>
-
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=ggsant&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
 
 ###
 
